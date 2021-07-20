@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markskyzoid.github.io/sitemap.xml
